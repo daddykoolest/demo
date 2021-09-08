@@ -1,14 +1,1542 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "DeviceId": "aedb9ede-bded-4988-aab9-8bf042f85ebd",
+    "Parent": null,
+    "MinionId": 170,
+    "SiteId": "HPLAPTOP",
+    "SiteName": "",
+    "ServerName": "CUKNB0008",
+    "Status": "Unknown",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.27.0",
+    "LastHeartBeat": "08/09/2021 10:48:00",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 140,
+        "GroupName": "tards"
+      }
+    ]
+  },
+  {
+    "DeviceId": "00000000-0000-0000-0000-000000000000",
+    "Parent": null,
+    "MinionId": 165,
+    "SiteId": "EBDEV0812A",
+    "SiteName": "",
+    "ServerName": "CUKNB0514",
+    "Status": "Unknown",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.22.0",
+    "LastHeartBeat": "07/09/2021 11:31:27",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      },
+      {
+        "GroupID": 82,
+        "GroupName": "TestGroup112"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 98,
+        "GroupName": "Another one"
+      },
+      {
+        "GroupID": 137,
+        "GroupName": "Erika Test 8"
+      },
+      {
+        "GroupID": 108,
+        "GroupName": "Thunderbird Three"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 92,
+        "GroupName": "well this works"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      }
+    ]
+  },
+  {
+    "DeviceId": "2c71d625-607c-437f-a186-e1b5af138e07",
+    "Parent": null,
+    "MinionId": 163,
+    "SiteId": "EBDEV086A",
+    "SiteName": "",
+    "ServerName": "CUKNB0514",
+    "Status": "Unknown",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.22.0",
+    "LastHeartBeat": "12/08/2021 13:10:05",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 75,
+        "GroupName": "KSTESTQA1"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 98,
+        "GroupName": "Another one"
+      },
+      {
+        "GroupID": 137,
+        "GroupName": "Erika Test 8"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 92,
+        "GroupName": "well this works"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      }
+    ]
+  },
+  {
+    "DeviceId": "c6fc6256-3950-4600-ba40-cdff5b8b09b0",
+    "Parent": 163,
+    "MinionId": 162,
+    "SiteId": "EBDEV086",
+    "SiteName": "",
+    "ServerName": "DESKTOP-L0P3KSS",
+    "Status": "Unknown",
+    "OperatingSystem": "Windows 10 Home release 1803",
+    "MinionVersion": "1.13.22.0",
+    "LastHeartBeat": "06/08/2021 12:48:03",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      },
+      {
+        "GroupID": 92,
+        "GroupName": "well this works"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 108,
+        "GroupName": "Thunderbird Three"
+      },
+      {
+        "GroupID": 137,
+        "GroupName": "Erika Test 8"
+      },
+      {
+        "GroupID": 98,
+        "GroupName": "Another one"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 75,
+        "GroupName": "KSTESTQA1"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      }
+    ]
+  },
+  {
+    "DeviceId": "fb4cdcb4-1bf7-4e0d-8ff1-8df15ee83573",
+    "Parent": 163,
+    "MinionId": 161,
+    "SiteId": "EBDEV085",
+    "SiteName": "",
+    "ServerName": "CUKNB0514",
+    "Status": "Unknown",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.22.0",
+    "LastHeartBeat": "06/08/2021 12:39:28",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 75,
+        "GroupName": "KSTESTQA1"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 98,
+        "GroupName": "Another one"
+      },
+      {
+        "GroupID": 137,
+        "GroupName": "Erika Test 8"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 92,
+        "GroupName": "well this works"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      }
+    ]
+  },
+  {
+    "DeviceId": "439b6b84-e6d8-4fdb-9126-a2deb173a6bb",
+    "Parent": 169,
+    "MinionId": 158,
+    "SiteId": "EBLOCAL1143",
+    "SiteName": "",
+    "ServerName": "DESKTOP-L0P3KSS",
+    "Status": "Unknown",
+    "OperatingSystem": "Windows 10 Home release 1803",
+    "MinionVersion": "1.13.22.0",
+    "LastHeartBeat": "06/08/2021 08:14:59",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      },
+      {
+        "GroupID": 92,
+        "GroupName": "well this works"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 137,
+        "GroupName": "Erika Test 8"
+      },
+      {
+        "GroupID": 98,
+        "GroupName": "Another one"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      }
+    ]
+  },
+  {
+    "DeviceId": "9d74db44-94b2-48da-8895-1e5b5b77ce22",
+    "Parent": 165,
+    "MinionId": 153,
+    "SiteId": "EBDEV0715",
+    "SiteName": "",
+    "ServerName": "CUKNB0514",
+    "Status": "Unknown",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.20.0",
+    "LastHeartBeat": "16/07/2021 13:51:56",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 108,
+        "GroupName": "Thunderbird Three"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      },
+      {
+        "GroupID": 92,
+        "GroupName": "well this works"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      }
+    ]
+  },
+  {
+    "DeviceId": "a4b0e973-185b-4f8e-ab5b-6f443cb8137e",
+    "Parent": null,
+    "MinionId": 122,
+    "SiteId": "EBAPRDEV",
+    "SiteName": "",
+    "ServerName": "CUKNB0514",
+    "Status": "Red",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.6.0",
+    "LastHeartBeat": "25/05/2021 13:35:21",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      },
+      {
+        "GroupID": 92,
+        "GroupName": "well this works"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 108,
+        "GroupName": "Thunderbird Three"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      }
+    ]
+  },
+  {
+    "DeviceId": "4ddb467f-4550-4a5a-a6ed-08552b760dfa",
+    "Parent": null,
+    "MinionId": 121,
+    "SiteId": "EBMAY04",
+    "SiteName": "",
+    "ServerName": "CUKNB0514",
+    "Status": "Red",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.4.0",
+    "LastHeartBeat": "13/05/2021 08:07:55",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 92,
+        "GroupName": "well this works"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      }
+    ]
+  },
+  {
+    "DeviceId": "61f7ca3b-bd26-4732-8a45-0afd8636ad55",
+    "Parent": null,
+    "MinionId": 168,
+    "SiteId": "EBDEV0816",
+    "SiteName": "A Name HERE 1",
+    "ServerName": "CUKNB0514",
+    "Status": "Red",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.25.0",
+    "LastHeartBeat": "27/08/2021 10:25:25",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "RoboVet PMS",
+        "PIMSVersion": "{ Version: '5.47.110', Name: 'A0222-16186', Build: 'FP47 Foldex Aero', Master: 'Y', Laptop: 'N', Par"
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 92,
+        "GroupName": "well this works"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 108,
+        "GroupName": "Thunderbird Three"
+      },
+      {
+        "GroupID": 98,
+        "GroupName": "Another one"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 82,
+        "GroupName": "TestGroup112"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      }
+    ]
+  },
+  {
+    "DeviceId": "e24dd272-222b-44b6-a4d7-00ea2942ea24",
+    "Parent": 168,
+    "MinionId": 166,
+    "SiteId": "EBDEV0812B",
+    "SiteName": "a new minion",
+    "ServerName": "CUKNB0514",
+    "Status": "Unknown",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.22.0",
+    "LastHeartBeat": "13/08/2021 11:49:36",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 108,
+        "GroupName": "Thunderbird Three"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 98,
+        "GroupName": "Another one"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 82,
+        "GroupName": "TestGroup112"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      }
+    ]
+  },
+  {
+    "DeviceId": "8ab83a8a-4aed-435d-824b-fc6dc73a2a91",
+    "Parent": null,
+    "MinionId": 164,
+    "SiteId": "EBDEV0812",
+    "SiteName": "EBDEV0812",
+    "ServerName": "CUKNB0514",
+    "Status": "Green",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.22.0",
+    "LastHeartBeat": "12/08/2021 13:11:28",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 98,
+        "GroupName": "Another one"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 82,
+        "GroupName": "TestGroup112"
+      },
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      }
+    ]
+  },
+  {
+    "DeviceId": "29ae6730-2a54-4fa3-8533-bfeab51b1be2",
+    "Parent": null,
+    "MinionId": 167,
+    "SiteId": "EBDEV0813",
+    "SiteName": "EBDEV0813",
+    "ServerName": "CUKNB0514",
+    "Status": "Red",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.22.0",
+    "LastHeartBeat": "13/08/2021 14:04:40",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 82,
+        "GroupName": "TestGroup112"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 75,
+        "GroupName": "KSTESTQA1"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 98,
+        "GroupName": "Another one"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 72,
+        "GroupName": "KSTESTGROUP3"
+      }
+    ]
+  },
+  {
+    "DeviceId": "5c330bd7-c851-4fa5-bdec-e1604621b2a8",
+    "Parent": null,
+    "MinionId": 151,
+    "SiteId": "EBDEV0709",
+    "SiteName": "hello",
+    "ServerName": "CUKNB0514",
+    "Status": "Red",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.19.0",
+    "LastHeartBeat": "16/07/2021 13:51:06",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "RoboVet PMS",
+        "PIMSVersion": "{ Version: '5.48.26', Name: 'A0408-16473', Build: 'FP48 Fishing Cat Banana', Master: 'Y', Laptop: 'N"
+      },
+      {
+        "PIMSName": "RoboVet VetLogic Client",
+        "PIMSVersion": "1.3.0.0"
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 72,
+        "GroupName": "KSTESTGROUP3"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 108,
+        "GroupName": "Thunderbird Three"
+      },
+      {
+        "GroupID": 127,
+        "GroupName": "This is a completely new group"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 92,
+        "GroupName": "well this works"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      }
+    ]
+  },
+  {
+    "DeviceId": "a5deddd0-c712-496b-9843-b152ff0d054b",
+    "Parent": null,
+    "MinionId": 155,
+    "SiteId": "EBDEV0716",
+    "SiteName": "hello2",
+    "ServerName": "CUKNB0514",
+    "Status": "Red",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.21.0",
+    "LastHeartBeat": "16/07/2021 14:20:28",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "RoboVet PMS",
+        "PIMSVersion": "{ Version: '5.48.26', Name: 'A0408-16473', Build: 'FP48 Fishing Cat Banana', Master: 'Y', Laptop: 'N"
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 98,
+        "GroupName": "Another one"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 72,
+        "GroupName": "KSTESTGROUP3"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      }
+    ]
+  },
+  {
+    "DeviceId": "b8f97ac8-55e1-485e-bf10-6ce81af6f633",
+    "Parent": null,
+    "MinionId": 169,
+    "SiteId": "EBDEV0827",
+    "SiteName": "hello6",
+    "ServerName": "CUKNB0514",
+    "Status": "Red",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.26.0",
+    "LastHeartBeat": "08/09/2021 10:51:46",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "RoboVet PMS",
+        "PIMSVersion": "{ Version: '5.47.110', Name: 'A0222-16186', Build: 'FP47 Foldex Aero', Master: 'Y', Laptop: 'N', Par"
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 92,
+        "GroupName": "well this works"
+      },
+      {
+        "GroupID": 72,
+        "GroupName": "KSTESTGROUP3"
+      },
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      }
+    ]
+  },
+  {
+    "DeviceId": "047ea6f5-b442-4254-ac0f-5a7301222c2a",
+    "Parent": 151,
+    "MinionId": 156,
+    "SiteId": "EBDEV07161",
+    "SiteName": "hi",
+    "ServerName": "CUKNB0514",
+    "Status": "Red",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.22.0",
+    "LastHeartBeat": "05/08/2021 07:44:26",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "RoboVet PMS",
+        "PIMSVersion": "{ Version: '5.48.26', Name: 'A0408-16473', Build: 'FP48 Fishing Cat Banana', Master: 'Y', Laptop: 'N"
+      },
+      {
+        "PIMSName": "RoboVet VetLogic Client",
+        "PIMSVersion": "1.3.0.0"
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 139,
+        "GroupName": "I made this on Friday"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      }
+    ]
+  },
+  {
+    "DeviceId": "4431c5ae-b8f4-4dbc-828e-e9fb720853fa",
+    "Parent": 168,
+    "MinionId": 160,
+    "SiteId": "KEVG",
+    "SiteName": "Kev's Laptop",
+    "ServerName": "CUKNB0517",
+    "Status": "Unknown",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.9.0",
+    "LastHeartBeat": "08/09/2021 10:50:16",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      }
+    ]
+  },
+  {
+    "DeviceId": "1b8679ec-3bdb-4f03-9ac9-d028199e269f",
+    "Parent": 169,
+    "MinionId": 157,
+    "SiteId": "KST4",
+    "SiteName": "KS Dev test 5",
+    "ServerName": "CUKNB0417",
+    "Status": "Red",
+    "OperatingSystem": "Windows 10 Enterprise release 1909",
+    "MinionVersion": "1.13.23.0",
+    "LastHeartBeat": "17/08/2021 10:49:37",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      }
+    ]
+  },
+  {
+    "DeviceId": "38594b5b-25c7-49ac-ba86-b0e9935c2bbf",
+    "Parent": null,
+    "MinionId": 159,
+    "SiteId": "JUDITH3",
+    "SiteName": "LTUK1101",
+    "ServerName": "LTUK1101",
+    "Status": "Red",
+    "OperatingSystem": "Windows 10 Enterprise release 1909",
+    "MinionVersion": "1.13.22.0",
+    "LastHeartBeat": "07/09/2021 23:29:48",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 100,
+        "GroupName": "Kevin G One"
+      },
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 90,
+        "GroupName": "Red Dwarf 3"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      }
+    ]
+  },
+  {
+    "DeviceId": "9bc216d1-ca40-4f8f-938b-4c8fd2047f10",
+    "Parent": null,
+    "MinionId": 133,
+    "SiteId": "KEVINMLAPTOP",
+    "SiteName": "MadeUpSite",
+    "ServerName": "DTEDI1162",
+    "Status": "Green",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.22.0",
+    "LastHeartBeat": "06/09/2021 15:02:54",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "RoboVet PMS",
+        "PIMSVersion": "{ Version: '5.47.110', Name: 'A0222-16186', Build: 'FP47 Foldex Aero', Master: 'Y', Laptop: 'N', Par"
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      },
+      {
+        "GroupID": 97,
+        "GroupName": "Test UI 5"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 91,
+        "GroupName": "alright alright alright2"
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 72,
+        "GroupName": "KSTESTGROUP3"
+      }
+    ]
+  },
+  {
+    "DeviceId": "b6e99c34-72e6-42e0-a429-ce7716eb037d",
+    "Parent": null,
+    "MinionId": 91,
+    "SiteId": "ANTON1",
+    "SiteName": "robovet-local",
+    "ServerName": "HRK1-LHP-A04569",
+    "Status": "Unknown",
+    "OperatingSystem": "Windows 10 Enterprise release 2009",
+    "MinionVersion": "1.13.21.0",
+    "LastHeartBeat": "21/08/2021 00:01:38",
+    "ApplicationMetrics": [
+      {
+        "PIMSName": "",
+        "PIMSVersion": ""
+      }
+    ],
+    "MobileUsers": null,
+    "MobileSubscriptions": 0,
+    "ActiveMobileUsers": 0,
+    "HeartbeatInterval": 0,
+    "MinionGroupIds": [
+      {
+        "GroupID": 110,
+        "GroupName": "Thunderbird Five "
+      },
+      {
+        "GroupID": 126,
+        "GroupName": "Te"
+      },
+      {
+        "GroupID": 104,
+        "GroupName": "TESTY"
+      },
+      {
+        "GroupID": 122,
+        "GroupName": "tardis"
+      },
+      {
+        "GroupID": 72,
+        "GroupName": "KSTESTGROUP3"
+      },
+      {
+        "GroupID": 96,
+        "GroupName": "UITestGroup"
+      },
+      {
+        "GroupID": 87,
+        "GroupName": "Kev's Bumper Bag"
+      }
+    ]
   }
-}
+]
